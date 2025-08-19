@@ -1,0 +1,5 @@
+[INFO 2023-09-08 13:59:13] Teste log before all
+[INFO 2023-09-08 13:59:13] Teste log before
+[INFO 2023-09-08 14:00:32] Payload: 
+    ""
+[INFO 2023-09-08 14:00:58] Teste log after
