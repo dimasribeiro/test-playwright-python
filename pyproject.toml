@@ -1,0 +1,3 @@
+[tool.pytest.ini_options]
+addopts = "-v --alluredir=C:/Users/dimas.ribeiro/Documents/test-playwright-python/reports/allure-resuts --clean-alluredir"
+filterwarnings = ['ignore::UserWarning']
